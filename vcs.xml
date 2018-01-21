@@ -10,8 +10,16 @@
           <option name="url" value="https://github.com/richiloco29/GymSparki.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjaravmt/AboutUs." />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjaravmt/AboutUs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Administrador\IdeaProjects" />
+    <option name="cloneParentDir" value="E:\development\2426" />
   </component>
 </application>
